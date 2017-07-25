@@ -3,3 +3,6 @@
 #Este é um repositorio teste para ensinar com o git funciona.
 
 Saiba mais no link [willianjusten.com.br](http://willianjusten.com.br)
+
+
+Gostou do curso? quer mais ajude? com uma doação, até um café vale.
