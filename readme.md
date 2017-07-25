@@ -14,3 +14,6 @@ Teste de atulização do arquivo para o GITHUB
 
 
 teste para o git stash
+
+
+teste de tag
